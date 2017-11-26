@@ -4,3 +4,6 @@
 [submodule "Java"]
 	path = Java
 	url = https://github.com/eventuate-examples/eventuate-examples-java-customers-and-orders.git
+[submodule "eventuate-examples-java-aws-gateway-echo"]
+	path = eventuate-examples-java-aws-gateway-echo
+	url = https://github.com/eventuate-examples/eventuate-examples-java-aws-gateway-echo

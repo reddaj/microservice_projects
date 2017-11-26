@@ -7,3 +7,6 @@
 [submodule "eventuate-examples-java-aws-gateway-echo"]
 	path = eventuate-examples-java-aws-gateway-echo
 	url = https://github.com/eventuate-examples/eventuate-examples-java-aws-gateway-echo
+[submodule "awsToDo"]
+	path = awsToDo
+	url = https://github.com/eventuate-examples/eventuate-examples-java-aws-lambda-todo-list
